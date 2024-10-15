@@ -1,2 +1,2 @@
-# Sylvac
-Sylvac BLE python
+# Sylvac Graphical BLE capture
+Sylvac BLE python capture software with CSV export
