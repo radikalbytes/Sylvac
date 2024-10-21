@@ -120,6 +120,7 @@ class MeasurementApp(QWidget):
 
         target_device = None
         for device in devices:
+            print(device.name, device.address)
             if device.name and "SY289" in device.name:
                 target_device = device
                 break
